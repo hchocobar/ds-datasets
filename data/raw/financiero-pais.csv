@@ -1,0 +1,6 @@
+Country,CountryID,RegionComercial,Subregion,ISO2,Moneda,IdiomaNegocio,TasaIVAReferencia
+Canada,CTY001,North America,Northern America,CA,CAD,English/French,'5,0%'
+France,CTY002,Europe,Western Europe,FR,EUR,French,'20,0%'
+Germany,CTY003,Europe,Western Europe,DE,EUR,German,'19,0%'
+Mexico,CTY004,North America,Central America,MX,MXN,Spanish,'16,0%'
+United States of America,CTY005,North America,Northern America,US,USD,English,'0,0%'
